@@ -55,11 +55,11 @@ The raw `Building-crack_SUMMARY_2025-;2017.xlsx - Summary.csv` undergoes a compr
 
 1.  **Open in Google Colab**: Click the "Open in Colab" badge below (if implemented on your GitHub repo) or manually open the `Prophet_for_forecasting_of_all_images.ipynb` notebook in Google Colab by navigating to `File > Open notebook > GitHub` and entering the URL of this repository.
 
-    [![Open In Colab](https://colab.research.google.com/drive/1mSRJyJnbKns2Xmze9zDVc1usW-sGJXBl?usp=sharing)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mSRJyJnbKns2Xmze9zDVc1usW-sGJXBl?usp=sharing)
 
-2.  **Upload Data**: The notebook is designed to run in Google Colab. You will need to ensure that `Building-crack_SUMMARY_2025-;2017.xlsx - Summary.csv` (if you want to re-run the preprocessing) and `New data of 2021.xlsx - Sheet1.csv` are uploaded to your Colab environment or mounted from Google Drive as instructed in the notebook.
+3.  **Upload Data**: The notebook is designed to run in Google Colab. You will need to ensure that `Building-crack_SUMMARY_2025-;2017.xlsx - Summary.csv` (if you want to re-run the preprocessing) and `New data of 2021.xlsx - Sheet1.csv` are uploaded to your Colab environment or mounted from Google Drive as instructed in the notebook.
 
-3.  **Execute Cells**: Run all the cells in the notebook sequentially (`Runtime > Run all`). The notebook will guide you through the entire process, from data loading to model training, forecasting, and visualization of the results directly within the notebook.
+4.  **Execute Cells**: Run all the cells in the notebook sequentially (`Runtime > Run all`). The notebook will guide you through the entire process, from data loading to model training, forecasting, and visualization of the results directly within the notebook.
 
 ## Results
 
