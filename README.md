@@ -69,10 +69,6 @@ Below is an example of a generated forecast plot, illustrating the historical cr
 
 ![Building Crack Forecast Plot](Code_Generated_Image.png)
 
-This plot typically shows:
-* **Black dots**: Represent the actual historical crack width measurements.
-* **Blue line**: Represents the Prophet model's forecast, including the trend and seasonality.
-* **Light blue shaded area**: Indicates the uncertainty interval (confidence interval) around the forecast.
 
 These results provide valuable insights for proactive maintenance and structural monitoring.
 
