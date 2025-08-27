@@ -1,4 +1,4 @@
-# Building Crack Forecasting with Prophet
+# Crack Forecasting with Prophet
 
 This repository provides a Google Colab notebook for forecasting building crack data using Facebook Prophet. The project involves raw data preprocessing, feature selection, and applying the Prophet model to predict future crack trends.
 
@@ -70,7 +70,7 @@ Below is an example of a generated forecast plot, illustrating the historical cr
 ![Building Crack Forecast Plot](Code_Generated_Image.png)
 
 
-These results provide valuable insights for proactive maintenance and structural monitoring.
+These results provide valuable insights for proactive maintenance and structural monitoring..............
 
 ## Dependencies
 
